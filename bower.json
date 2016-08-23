@@ -1,0 +1,17 @@
+{
+  "name": "angular-to-do-app",
+  "description": "An Angular JS To-Do List Application",
+  "version": "0.0.0",
+  "homepage": "https://github.com/indu-prakash",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "~1.5.0",
+    "angular-route": "~1.5.0",
+    "angular-loader": "~1.5.0",
+    "angular-mocks": "~1.5.0",
+    "html5-boilerplate": "^5.3.0",
+    "angular-drag-and-drop-lists": "^1.4.0",
+    "bootstrap": "^3.3.7"
+  }
+}
